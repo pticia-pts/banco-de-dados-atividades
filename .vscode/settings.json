@@ -20,6 +20,17 @@
             "database": "postgres",
             "username": "postgres",
             "name": "agendamento"
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "ativ.03",
+            "database": "postgres",
+            "username": "postgres"
         }
     ]
 }
